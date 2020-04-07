@@ -16,3 +16,4 @@ MANIFEST
 *.egg-info/
 *.pyc
 *.png
+.flake8

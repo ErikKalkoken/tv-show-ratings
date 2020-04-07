@@ -37,7 +37,13 @@ After installation the tool can be started from the command line. For example to
 tv_show_ratings 0092455
 ```
 
-You can also provide multiple IDs to generate charts for multiple TV shows in bulk.
+Note that you can get the IMDB ID from the URL of the series on IMDB.
+
+You can also provide multiple IDs to generate charts for multiple TV shows in bulk:
+
+```bash
+tv_show_ratings 0092455 2306299
+```
 
 Here is an overview of all options:
 
