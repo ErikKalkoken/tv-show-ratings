@@ -22,6 +22,7 @@ This tool is powered by [imdbpy](https://github.com/alberanid/imdbpy), [seaborn]
 - Uses a fixed color scale to that TV shows can be compared
 - The color scale is defined around 3 colors: green for the highest possible rating, red for the lowest possible rating and yellow for the average rating as defined by IMDB's overall average rating ([Source](https://www.quora.com/What-is-an-average-rating-on-IMDB-for-a-movie))
 - Charts will be created using IMDB's current live data
+- Charts can be created in many formats incl. PNG, PDF and SVG
 
 ## Installation
 
