@@ -18,8 +18,8 @@ setup(
     include_package_data=True,
     license='MIT',
     description=(
-        'Command line tool that creates a ratings chart for all episodes of '
-        'a TV show based on IMDB'
+        'Command line tool that creates rating charts for all episodes '
+        'of a TV shows with data from IMDB'
     ),
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -34,7 +34,9 @@ setup(
         'License :: OSI Approved :: MIT License', 
         'Operating System :: OS Independent',
         'Programming Language :: Python',                
-        'Programming Language :: Python :: 3.7',   
+        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
     ],
     python_requires='>=3.6',    
     install_requires=[

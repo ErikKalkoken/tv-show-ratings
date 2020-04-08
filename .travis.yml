@@ -1,0 +1,11 @@
+language: python
+python:  
+  - 3.6
+  - 3.7
+  - 3.8
+before_install:  
+  - pip install -U pip
+  - pip install tox
+script:
+  - tox -e $(echo py$TRAVIS_PYTHON_VERSION | tr -d .)
+
