@@ -3,6 +3,8 @@
 ![version](https://img.shields.io/badge/version-0.2.0-orange)
 ![python](https://img.shields.io/badge/python-3.6|3.7|3.8-blue)
 ![license](https://img.shields.io/github/license/ErikKalkoken/dhooks-lite)
+![pipeline](https://api.travis-ci.org/ErikKalkoken/tv-show-ratings.svg)
+
 
 ## Overview
 
